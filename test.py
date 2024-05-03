@@ -26,3 +26,6 @@ def b():
         my_variable_is_good_6,
         my_variable_is_good_7,
     )
+
+
+print("a")
